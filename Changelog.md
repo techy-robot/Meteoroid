@@ -1,14 +1,48 @@
 # Overview
-Production-ready 3d printer based on a Ender 5 frame, with multifunction tool changing.
+Production-ready 3d printer based on a Ender 5 frame, with multifunction tool changing, bed changing, and accessories with robots.
 
-A desktop machine with plug and play heads and beds. Chain these together and add robot carriages in between and you got yourself an awesome modular factory that can fit in a bench. This is an opensource project. The cost of the _entire system_ will likely be several thousand dollars, with the main machine limited to $300 budget. I aim to lower the cost of a complete industrial system as much as possible.
+It is desktop machine with plug and play heads and beds. Chain these machines together and add robot carriages in between and you got yourself an awesome modular factory that can fit on a bench. The cost of the _entire system_ will likely be several thousand dollars, with the main machine between $300 to $600. I aim to lower the cost of a complete industrial system as much as possible.
 
-The base machine is a CoreXY printer with a 500+mm/s move speed and 30k+ accel, 4 tool changer slots for Drill bits, Pick-n-place, 3D printer heads, or lasers. The printer is partially enclosed, with several openings for robots to quick swap tools and beds and sometimes even sub-tools (Like a pnp head with different nozzle sizes).
+The base machine is a CoreXY printer with a 500+mm/s move speed 30k+ accel, and 4 tool changer slots. The printer is partially enclosed, with several openings for robots to quick swap tools and beds and sometimes even sub-tools (Like a pnp head with different nozzle sizes). Software-wise, it will be running Klipper, which can interface with other software like OpenPNP using macros and linux ports.
 
-Total Aggrigate Hours Spent: 5.5 hrs
-Project Time Span: Feb 1, 2025-
+Total Aggrigate Hours Spent: 6 hrs
+
+Project Time Span: Feb 1, 2025-Present
 
 # Log
+This is a log of every day I have worked on this project
+
+
+## More ideas - Feb 4th, 2025
+
+I decided that for rails I should instead go with West3D Berserker MGN12 rails, they high quality and from my favorite supplier
+
+I had a greate idea for a bed ejection and combo scraper system for my printer using one motor. Basically it is a belt drive that at one end pulls the scrapper across the bed towards the front, but if it reverses it disengages and springs back, starting to push the bed out towards the back. There would be a robot port at the back to handle the bed and transport it to storage somehow.
+
+Bed Options:
+- 3d Printer bed, G10
+- Laser bed with metal heat fins
+- CNC Steel bed
+- Pick & Place bed with a camera and part alignment jigs
+
+There are also additional slots for toolhead accessories around the top of the printer that would have to be swapped automatically. I'm not sure the best way to replace accessory bays with an automated robot, since its difficult to reach inside the printer. 
+
+Accessory bay options:
+- Nozzles for PnP head
+- Feeders for PnP
+- Klicky Probe
+- Waste Material Ejection for color change and cleaning
+- Revo hotends
+- Camera mount
+
+For the toolhead there are 4 slots for different *active* heads, but many more toolheads will likely be used, and I want them automatically loaded by some robot from storage. I'm thinking of having an extension arm that locks and grabs the toolheads the same way the printer carraige would (in towards the printer), but it would then drop down, go under the frame beam, and be encapsulated into a driving robot to take it to storage.
+
+These robots would be completely independent of the manufacturing machines, they are driving robots with mechanum or swerve base capabily of transporting parts to storage or between machines easily. These carry Heads, Beds, Accessory Bays, Input Material, Output Material, and whatever else I decide should be automatically changed on the fly.
+
+The head and bed should have 2 communication lanes and 2 high power lanes to have maximum flexiblity (if I wanted cameras on the parts for example). It is assumed that CAN bus and or USB 3 are used for high reliability.
+
+Time: 30 min
+
 ## Cont. Part Research - Feb 3rd, 2025
 
 I added a few parts to my list.
@@ -22,6 +56,7 @@ For the motion system I want to use 350mm Mitsumi Linear rails (3 of them) top m
 
 Additions:
 - Motherboard on BOM: BTT SKR Pico
+- Klipper Host: RPI zero 2 w or a spare SBC I have
 - Toolboard: BTT EBB 36
 - Carraige CoreXY Motors: LDO 42STH48-2804AH(S55)
 
