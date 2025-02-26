@@ -26,6 +26,13 @@ Project Time Span: Feb 1, 2025-Present
 # Log
 This is a log of every day I have worked on this project
 
+## Back at it - Feb 25, 2025
+Okay, I'm back at it today, starting actual design work! I took my time creating a configerable vslot beam part that can change to any length on demand. I also assembled the base rectangle for the bottom.
+![](https://github.com/techy-robot/Meteoroid/Media/Screenshot%20from%202025-02-25%2022-06-22.png)
+
+https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/w/00a76129439a8316e13df1dd/m/b323f8763260d1f753c2db33/e/71c7bdc91eebbb5c66aa9fbc
+
+Time: 1 hr
 
 ## More ideas - Feb 4th, 2025
 
