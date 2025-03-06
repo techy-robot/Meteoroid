@@ -2,7 +2,7 @@ Made by: @techy-robot
 
 Repository link: https://github.com/techy-robot/Meteoroid
 
-Total hours so far: 7 hrs
+Total hours so far: 8.0 hrs
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -32,11 +32,26 @@ Project Time Span: Feb 1, 2025-Present
 # Log
 This is a log of every day I have worked on this project
 
+## Base Frame - March 5th, 2025
+
+Finished base Frame today, I just need to add stiffeners
+![Base Frame](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-03-05 22-28-12.png)
+
+[Onshape Link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/w/00a76129439a8316e13df1dd/m/cbfba813138ca8a3b26123b0/e/76ac3e39a1abc7fd322101c5)
+
+Time: 30 min
+
+## Logo ideas - March 1st, 2025
+Some logo ideas
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/20250305-logo%20ideas.jpg)
+
+Time : 30min
+
 ## Back at it - Feb 25, 2025
 Okay, I'm back at it today, starting actual design work! I took my time creating a configerable vslot beam part that can change to any length on demand. I also assembled the base rectangle for the bottom.
-![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-02-25%2022-06-22.png)
+![base square](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-02-25%2022-06-22.png)
 
-https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/w/00a76129439a8316e13df1dd/m/b323f8763260d1f753c2db33/e/71c7bdc91eebbb5c66aa9fbc
+[Onshape Link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/w/00a76129439a8316e13df1dd/m/b323f8763260d1f753c2db33/e/71c7bdc91eebbb5c66aa9fbc)
 
 Time: 1 hr
 

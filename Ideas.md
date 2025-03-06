@@ -1,0 +1,3 @@
+- Add a vslot extrusion and wheels for switching off beds. Line up the rails and roll a new bed on
+- Hotswap toolheads aren't supported in klipper, so either add this feature or create a macro that modifies the config and reboots klipper each toolrow swap.
+- Pogo pins for USB and CAN bus between toolhead an motion carrage
