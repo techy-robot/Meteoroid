@@ -35,7 +35,7 @@ This is a log of every day I have worked on this project
 ## Base Frame - March 5th, 2025
 
 Finished base Frame today, I just need to add stiffeners
-![Base Frame](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-03-05 22-28-12.png)
+![Base Frame](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-03-05%2022-28-12.png)
 
 [Onshape Link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/w/00a76129439a8316e13df1dd/m/cbfba813138ca8a3b26123b0/e/76ac3e39a1abc7fd322101c5)
 
