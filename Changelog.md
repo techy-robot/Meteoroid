@@ -2,7 +2,7 @@ Made by: @techy-robot
 
 Repository link: https://github.com/techy-robot/Meteoroid
 
-Total hours so far: 8.0 hrs
+Total hours so far: 14.0 hrs
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -31,6 +31,22 @@ Project Time Span: Feb 1, 2025-Present
 
 # Log
 This is a log of every day I have worked on this project
+
+## Finished Logo digital design - March 8th, 2025
+
+I spent quite a few hours working on turning my drawings into a logo for my printer. I created multiple versions of it for different situations and for 3D.
+
+Final logo:
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Logo/Meteoroid-logo.svg)
+
+### My Process for creating Logo types
+1. Create the base color logo. Use offset live path effect with rounded corners and then flatten it to a normal object for the internal light colors. More control than the Path Outset tool. Break it apart and delete the weird extra small shapes. Make sure to name all objects, and have a layer for the printer and layer for the burn
+2. Copy and start on two-tone version. Delete the 3rd inset color. Make sure the color pallet only has Primary and Background colors. Change all lines to Primary color, and make sure everything else is a fill color. Re-create the burn internal offset except without internal edges. The burn has to go behind the printer now.
+3. Copy and start on black and white version. Only change necessary, which should just be the colors
+4. For Mono, take the path difference of the trail and the the background so that you have no background fill object. Delete the fill object for the printer. Now it should be transparent and have only one color
+5. Finally, to get a logo that can be extruded in 3D, convert all strokes to paths, boolean union on all paths, Get ride of all groups and layers, and save as a DXF R14 file without changing any of the defaults. 
+
+Time: 6 hrs
 
 ## Base Frame - March 5th, 2025
 
