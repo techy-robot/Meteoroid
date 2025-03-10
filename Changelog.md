@@ -32,6 +32,15 @@ Project Time Span: Feb 1, 2025-Present
 # Log
 This is a log of every day I have worked on this project
 
+## Started frame stiffener
+
+I designed a fun frame stiffener peice
+![Frame Stiffener](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Screenshot%20from%202025-03-09 21-07-42.png)
+
+[Onshape Linke](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/w/00a76129439a8316e13df1dd/m/2ae4412215810c69bc8e58e2/e/1f99f85a2999227fc57382c6)
+
+Time: 2 hr
+
 ## Finished Logo digital design - March 8th, 2025
 
 I spent quite a few hours working on turning my drawings into a logo for my printer. I created multiple versions of it for different situations and for 3D.
