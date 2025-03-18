@@ -2,7 +2,7 @@ Made by: @techy-robot
 
 Repository link: https://github.com/techy-robot/Meteoroid
 
-Total hours so far: 14.0 hrs
+Total hours so far: 17.0 hrs
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -32,12 +32,20 @@ Project Time Span: Feb 1, 2025-Present
 # Log
 This is a log of every day I have worked on this project
 
-## Started frame stiffener
+
+## Added Z axis rails - March 17th, 2025
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-03-17%2021-55-10.png)
+
+[Onshape Link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/w/00a76129439a8316e13df1dd/m/ac507458f413c697b0cd875a/e/5ef495c38173f41e0befecf5)
+
+Time: 1hr
+
+## Started frame stiffener - March 9th, 2025
 
 I designed a fun frame stiffener peice
-![Frame Stiffener](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Screenshot%20from%202025-03-09 21-07-42.png)
+![Frame Stiffener](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-03-09 21-07-42.png)
 
-[Onshape Linke](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/w/00a76129439a8316e13df1dd/m/2ae4412215810c69bc8e58e2/e/1f99f85a2999227fc57382c6)
+[Onshape Link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/w/00a76129439a8316e13df1dd/m/2ae4412215810c69bc8e58e2/e/1f99f85a2999227fc57382c6)
 
 Time: 2 hr
 
