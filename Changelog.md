@@ -32,6 +32,12 @@ Project Time Span: Feb 1, 2025-Present
 # Log
 This is a log of every day I have worked on this project
 
+## Started bed frame design - March 18th, 2025
+I created a combined bed corner and z linear rail peice. I hope it is rigid enough!
+
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-03-18%2022-45-12.png)
+
+[Onshape Link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/w/00a76129439a8316e13df1dd/m/f90ea5979eb5aaab7db21657/e/5ef495c38173f41e0befecf5)
 
 ## Added Z axis rails - March 17th, 2025
 ![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-03-17%2021-55-10.png)
