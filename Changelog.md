@@ -32,6 +32,11 @@ Project Time Span: Feb 1, 2025-Present
 # Log
 This is a log of every day I have worked on this project
 
+## Updated Icon - March 22nd, 2025
+I changed the design a bit to emphasize the M dip and make it look somewhat more like a toolhead.
+
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Logo/Meteoroid-logo.svg)
+
 ## Started bed frame design - March 18th, 2025
 I created a combined bed corner and z linear rail peice. I hope it is rigid enough!
 
@@ -60,7 +65,7 @@ Time: 2 hr
 I spent quite a few hours working on turning my drawings into a logo for my printer. I created multiple versions of it for different situations and for 3D.
 
 Final logo:
-![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Logo/Meteoroid-logo.svg)
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Logo/Meteoroid-logo-20250308.png)
 
 ### My Process for creating Logo types
 1. Create the base color logo. Use offset live path effect with rounded corners and then flatten it to a normal object for the internal light colors. More control than the Path Outset tool. Break it apart and delete the weird extra small shapes. Make sure to name all objects, and have a layer for the printer and layer for the burn
