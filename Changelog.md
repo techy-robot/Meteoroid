@@ -2,7 +2,7 @@ Made by: @techy-robot
 
 Repository link: https://github.com/techy-robot/Meteoroid
 
-Total hours so far: 17.0 hrs
+Total hours so far: 25.0 hrs
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -32,10 +32,43 @@ Project Time Span: Feb 1, 2025-Present
 # Log
 This is a log of every day I have worked on this project
 
+## Add Electronics base - March 24th, 2025
+
+I changed the bite marks on the corner peices to an actual meteor texture that I made. I will put that texture on all non-critical parts now to spice things up!
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-03-24%2016-21-09.png)
+
+I also spent some time designing the bottom electronics enclosure parts.
+
+I also spent 2 hours researching using USB for all peripherial devices instead of CANbus, and it seems like it has a lot more potential without much downside. CAN bus is better for redundancy and long distance, which is not really used for 3D printers. It also ends up being a drag for toolchangers with hotswap, and for high throughput data required by cameras. I just need to use USB over a sheilded cable, and have a hub! The LDO Nitehawk SB boards look pretty cool, with that special molex connector with big power lines and small datalines. I could design a hub for that connector! Similar to [birds nest](https://store.isiks.tech/products/birds-nest) but cheaper and with USB-c.
+
+My printer is really shaping up! I have all of the base designed and assembled. I now only need the top motion, toolchanging toolhead, and possible enclosure! I've reached the point where I now consider it prudent to include a main step file in the repo, with half the mechanical design finished.
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-03-24%2023-16-40.png)
+
+[Onshape link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/w/00a76129439a8316e13df1dd/m/631436aa15fda19fa4fe5d01/e/f03e8779d1a8cc2741025c01)
+
+Time: 8 hrs
+
+
+## Finished bed frame - March 23rd, 2025
+
+I have attached all the parts and knobs and stuff, and added some motion capability.
+
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-03-23%2020-28-30.png)
+
+I also add fun bite marks to some the pieces, in imitation of a meteor.
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-03-23%20-50-29.png)
+
+[Onshape Link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/w/00a76129439a8316e13df1dd/m/680a472921ba0d3f7ccb1c2f/e/5ef495c38173f41e0befecf5)
+
+Time: 2hrs
+
+
 ## Updated Icon - March 22nd, 2025
 I changed the design a bit to emphasize the M dip and make it look somewhat more like a toolhead.
 
 ![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Logo/Meteoroid-logo.svg)
+
+Time: 1hr
 
 ## Started bed frame design - March 18th, 2025
 I created a combined bed corner and z linear rail peice. I hope it is rigid enough!
@@ -43,6 +76,8 @@ I created a combined bed corner and z linear rail peice. I hope it is rigid enou
 ![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-03-18%2022-45-12.png)
 
 [Onshape Link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/w/00a76129439a8316e13df1dd/m/f90ea5979eb5aaab7db21657/e/5ef495c38173f41e0befecf5)
+
+Time: 1hr
 
 ## Added Z axis rails - March 17th, 2025
 ![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-03-17%2021-55-10.png)

@@ -20,6 +20,8 @@ Goals/Requirements:
 - High speed 500mm/s and 30k accel
 - High Quality
 
-Total Aggrigate Hours Spent: 14 hrs
+The motion system inspiration is from Zero G Mercury 1.1, which is a relatively simple corexy conversion for ender 5 frames and was my starting point.
+
+Total Aggrigate Hours Spent: 21 hrs
 
 Project Time Span: Feb 1, 2025-Present
