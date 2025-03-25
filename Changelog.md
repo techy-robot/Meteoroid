@@ -89,7 +89,7 @@ Time: 1hr
 ## Started frame stiffener - March 9th, 2025
 
 I designed a fun frame stiffener peice
-![Frame Stiffener](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-03-09 21-07-42.png)
+![Frame Stiffener](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-03-09%2021-07-42.png)
 
 [Onshape Link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/w/00a76129439a8316e13df1dd/m/2ae4412215810c69bc8e58e2/e/1f99f85a2999227fc57382c6)
 
