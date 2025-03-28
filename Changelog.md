@@ -2,7 +2,7 @@ Made by: @techy-robot
 
 Repository link: https://github.com/techy-robot/Meteoroid
 
-Total hours so far: 25.0 hrs
+Total hours so far: 31.0 hrs
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -31,6 +31,27 @@ Project Time Span: Feb 1, 2025-Present
 
 # Log
 This is a log of every day I have worked on this project
+
+## Finished X axis - March 26th, 2025
+
+X axis is finished! (doesn't include toolhead)
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-03-27%2018-43-19.png)
+
+I also changed the pockmark size on the base standoffs, to make the design bigger.
+
+I added all my base and accent colors to this now, spicing it up. Stationary parts are Grey, moving parts are Orange.
+
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-03-27%2018-44-10.png)
+
+![Onshape Link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/w/00a76129439a8316e13df1dd/m/6000dfeccf72bd922665b3dd/e/abe2e35d4e7a15af75f9cffc)
+
+Time: 4 hrs
+
+## Started on X beam March 25th, 2025
+
+Didn't take any pictures, but I am mostly finished with the x joints
+
+Time: 2hrs
 
 ## Add Electronics base - March 24th, 2025
 
@@ -171,7 +192,7 @@ First up is the motherboard. I will still be reusing the BTT Octopus Pro for the
 
 Since this is a modular industrial 3D printer, I will be having a tool changer with 4 slots. Without the Octopus I have, this would be impossible on normal motherboards. Even using the big motherboard, I would have big problem routing cables for many different toolheads. My best choice is to have a toolhead board that simplifies wiring, and for this I want the BTT EBB 36
 
-I have also decided on the motors: LDO Motors 42STH48-2804AH(S55). These are part of the Super Speedy lineup, and are high temp, high current 1.8 degree motors.
+I have also decided on the motors: LDO Motors 42STH48-2804AH. These are part of the Super Speedy lineup, and are high temp, high current 1.8 degree motors.
 
 For the motion system I want to use 350mm Mitsumi Linear rails (3 of them) top mounted, and Gate belts
 
