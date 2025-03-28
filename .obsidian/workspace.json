@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "13830639c588147f",
+    "type": "split",
+    "children": [
+      {
+        "id": "37c26f2d8597e657",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "100bd4a9c75a13d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Changelog.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Changelog"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e49f7a5096479e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "834e3a91fd168a20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddd382429249e08b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "95a640f8b72050c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c743e20766df94b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1612d89fb4595d66",
+    "type": "split",
+    "children": [
+      {
+        "id": "604c77353e431c76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15e8d86622482bb5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Changelog.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Changelog"
+            }
+          },
+          {
+            "id": "fb9dea5ba5fee2eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Changelog.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Changelog"
+            }
+          },
+          {
+            "id": "a7c06777bf354aa4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f35323923cc81f98",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "255a9c250c83ce65",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          },
+          {
+            "id": "00ca806d980722ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Changelog.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Changelog"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "dbfolder:Create a new database table": false,
+      "cmdr:Time Ruler: Open Time Ruler in Main Tab": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
+      "time-ruler:Open Time Ruler": false
+    }
+  },
+  "active": "100bd4a9c75a13d8",
+  "lastOpenFiles": [
+    "README.md",
+    "Docs/Timeline.md",
+    "Docs/Ideas.md",
+    "Docs/Goals/Project Budget.md",
+    "Docs/Action Items/Modify timeline code.md"
+  ]
+}

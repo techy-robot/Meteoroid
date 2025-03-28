@@ -1,0 +1,11 @@
+{
+  "obsidian-icon-folder:iconize:set-icon-for-file": [],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ]
+}
