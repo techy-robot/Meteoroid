@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Changelog.md",
+                "file": "Docs/Ideas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Changelog"
+              "title": "Ideas"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Changelog.md",
+                "file": "Docs/Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Changelog"
+              "title": "Backlinks for Ideas"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Changelog.md",
+                "file": "Docs/Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Changelog"
+              "title": "Outgoing links from Ideas"
             }
           },
           {
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Changelog.md",
+                "file": "Docs/Ideas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Changelog"
+              "title": "Outline of Ideas"
             }
           }
         ]
@@ -208,6 +208,7 @@
   },
   "active": "100bd4a9c75a13d8",
   "lastOpenFiles": [
+    "Changelog.md",
     "README.md",
     "Docs/Timeline.md",
     "Docs/Ideas.md",

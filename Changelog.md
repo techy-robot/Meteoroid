@@ -5,7 +5,7 @@ Made by: @techy-robot
 
 Repository link: https://github.com/techy-robot/Meteoroid
 
-Total hours so far: 31.0 hrs
+Total hours so far: 39.0 hrs
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -35,7 +35,27 @@ Project Time Span: Feb 1, 2025-Present
 # Log
 This is a log of every day I have worked on this project
 
-## Finished X axis - March 26th, 2025
+## Finished top motion system - March 28th, 2025
+
+I finished designing all the motion system parts today. Only the toolhead and extra little parts left now! The toolhead is going to be complex still, and I may need to change my gantry back to the rail being mounted in front instead of on top. The Prusa XL has front mount rail, and so does Daksh V2.
+
+I realized that my frame was the wrong shape! It was supposed to be 410 by 440, not 410x410 ! I also spent about an hour fixing other random dimension errors or things I missed.
+
+I added my updated logo design to several parts as well. I only put logos on parts that are personalized or designed on my own, several of the motion parts are based on other's works and I can't plaster my logo on it and erase credit.
+
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-03-28%2021-01-33.png)
+
+[Onshape Link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/w/00a76129439a8316e13df1dd/m/aa6b344d97396a3ec29ddd6a/e/f03e8779d1a8cc2741025c01)
+
+I also had ideas for bed changing mechanisms
+
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/2025-03-26%203d%20printer%20bed%20swap%20page2.tiff)
+
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/2025-03-26%20Bed%20changing%20split%20idea.tiff)
+
+Time 8 hrs
+
+## Finished X axis - March 27th, 2025
 
 X axis is finished! (doesn't include toolhead)
 ![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-03-27%2018-43-19.png)
