@@ -5,7 +5,7 @@ Made by: @techy-robot
 
 Repository link: https://github.com/techy-robot/Meteoroid
 
-Total hours so far: 39.0 hrs
+Total hours so far: 42.0 hrs
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -34,6 +34,16 @@ Project Time Span: Feb 1, 2025-Present
 
 # Log
 This is a log of every day I have worked on this project
+
+## Finished Toolhead carriage and lock
+
+Now I need an actual toolhead, a PCB design and the BOM. So close to completion!
+
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-03-30%2022-31-08.png)
+
+[Onshape Link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/w/00a76129439a8316e13df1dd/m/95975a92215106d46bcc167e/e/5035fd16eb1a96461381da20)
+
+Time: 3 hrs
 
 ## Finished top motion system - March 28th, 2025
 
