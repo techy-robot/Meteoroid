@@ -1,0 +1,113 @@
+Item,Quantity,Description,Name
+1,1,,X axis
+1.1,1,370mm beam,2020 extrusion 370mm
+1.2,1,,Left X joint bottom
+1.3,1,,Left X joint top
+1.4,1,,Right X joint bottom
+1.5,1,,Right X joint top
+1.6,1,,320mm linear rail
+1.7,2,,350mm linear rail
+1.8,4,,Pin 5 x 30
+1.9,2,,toothed idler
+1.1,2,,Single Flange Stack
+1.10.1,2,,F695 Bearing (1)
+1.10.2,3,,SHIM (1)
+2,1,,frame and Z axis
+2.1,1,,Base Frame
+2.2,2,,Z Stepper
+2.3,2,,Z-Axis Motor Inside Bracket
+2.4,8,,10mm Clamp
+2.5,4,,10mm Rod
+2.6,4,,10mm Rod Bearing
+2.7,2,,5mm to 8mm Coupler
+2.8,2,,TR8 Nut
+2.9,2,,TR8 LeadScrew
+2.1,2,,2020 230mm extrusion
+2.11,2,,2020 250mm extrusion
+2.12,2,,bed - linear bearing mount corner
+2.13,2,,bed - linear bearing mount corner mirror
+2.14,4,,bed - frame mount
+2.15,2,,bed - lead screw nut mount
+2.16,1,,Bed
+2.17,4,,Bed Spring
+2.18,1,,Magnetic Sheet
+2.19,1,,Heated Bed
+2.2,4,,M4-0.7X40
+2.21,4,,bed - thumb screw
+2.22,1,,Z endstop mount
+3,4,,base standoff
+4,4,,DIN rail drop
+5,2,,370mm DIN rail
+6,1,,PSU Meanwel 350W 24V
+7,1,,BTT Octopus Pro Reduced
+8,2,,DIN rail clip -  LRS200 LRS350
+9,2,,DIN rail clip - Octopus pro
+10,4,,frame stiffener side mount
+11,8,,frame stiffener
+12,1,,Left motor mount
+12.1,1,,Left Motor Mount
+12.2,1,,Left Motor Mount Top
+12.3,1,,"Nema 17 Stepper Motor - 48mm - 1.8degree/step, 76oz-in v1"
+12.4,1,,Pulley 20t
+12.4.1,2,,Hex socket set screw with cone point M4x0.7 x 4
+12.4.2,1,,20t 2gt Pulley 5mm
+12.5,1,,Double Flange Stack
+12.5.1,4,,F695 Bearing (1)
+12.5.2,5,,SHIM (1)
+12.6,1,,Single Flange Stack
+12.6.1,2,,F695 Bearing (1)
+12.6.2,3,,SHIM (1)
+12.7,2,,Pin 5 x 30
+13,1,,Left Tensioner
+13.1,1,,Single Flange Stack
+13.2,1,,Pin 5 x 30
+13.3,1,,Left Tensioner
+14,1,,Right motor mount
+14.1,1,,Right Motor Mount
+14.2,1,,Right Motor Mount Top
+14.3,1,,"Nema 17 Stepper Motor - 48mm - 1.8degree/step, 76oz-in v1"
+14.4,1,,Pulley 20t
+14.5,1,,Double Flange Stack
+14.5.1,4,,F695 Bearing (1)
+14.5.2,5,,SHIM (1)
+14.6,1,,Single Flange Stack
+14.6.1,2,,F695 Bearing (1)
+14.6.2,3,,SHIM (1)
+14.7,2,,Pin 5 x 30
+15,1,,Right Tensioner
+15.1,1,,Single Flange Stack
+15.1.1,2,,F695 Bearing (1)
+15.1.2,3,,SHIM (1)
+15.2,1,,Pin 5 x 30
+15.3,1,,Right Tensioner
+16,2,,Tensioner Plate
+17,2,,DIN rail clip - RPI4
+18,1,,Raspberry Pi 4 Model B
+19,1,,AC-01A00_2_2_1_1_5_5_27_1_2_8_1
+20,1,,PSU switch mount
+21,1,,toolhead carriage
+21.1,1,,Carraige - back plate
+21.2,2,,Carraige - Belt clampx2
+21.3,1,,Carraige - bottom
+21.4,1,,Carraige - front belt plate
+21.5,1,,Carraige - lock clamp
+21.6,1,,Carraige - lock slider
+21.7,1,,Carraige - Rail mount
+21.8,1,,Carraige - spring plate
+21.9,8,,m3 x 16mm dowel pin
+21.1,3,,m3 x 20mm dowel pin
+21.11,2,,m3 x 30mm dowel pin (4)
+21.12,4,,spring OD6 ID5
+22,1,,toolhead
+22.1,1,,LDO Orbiter v2.5 v2
+22.2,1,,Rapido Orbiter Toolhead - mount
+22.3,1,,Rapido 2 Plus UHF
+22.4,1,,5015 Blower Fan v2
+22.5,1,,3010 Fan
+22.6,3,,m5 cap nut
+22.7,1,,Rapido Orbitor Toolhead - Duct
+22.8,1,,m3 x 16mm dowel pin
+23,4,,Tool Bay - Basic
+23.1,1,,Tool Bay - Basic
+23.2,3,,m3 x 16mm dowel pin
+24,3,,Rail End Stop
