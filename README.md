@@ -25,7 +25,7 @@ Features:
 - High print speed 500mm/s and 30k accel
 
 
-I designed a little adapter board I called Klipper to CACKLE. It basically takes USB-c input and 24v power, and converts this to my CACKLE layout spec and RS485 communication protocal. It uses a CH32 chip to process the commands and output equivalent Luos spec datapackets over the bus to my system.
+I also designed a little adapter board I called Klipper to CACKLE. It basically takes USB-c input and 24v power, and converts this to my [CACKLE](https://github.com/techy-robot/CACKLE) layout spec and RS485 communication protocal. It uses a CH32 chip to process the commands and output equivalent Luos spec datapackets over the bus to my system.
 ![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-04-06%2000-21-57.png)
 
 # Building
@@ -36,7 +36,7 @@ Total Hours Spent designing: 51 hrs
 
 This project was worked on sporadically from Feb 1, 2025 to April 5th, 2025
 
-See [Changelong](https://github.com/techy-robot/Meteoroid/blob/main/Changelong.md) for my full development log and the nitty-gritty details
+See [Changelog](https://github.com/techy-robot/Meteoroid/blob/main/Changelong.md) for my full development log and the nitty-gritty details
 
 # Credits
 The motion system inspiration is from [Zero G Mercury 1.1](https://docs.zerog.one/manual/build/mercury_eva), which is a relatively simple corexy conversion for ender 5-style frames. I have tweaked many of the parts to fix small issues I noticed, revamped the frame with supports, added a toolchanging solution, and a 2 axis bed leveling system instead of the more costly 3-axis Hydra solution. The toolchanger is similar to the [Daksh V2](https://github.com/ankurv2k6/daksh-toolchanger-v2/) solution, except with a simpler single lock system, and concentric kinematic mount points instead of asymetrical contact mounts.
