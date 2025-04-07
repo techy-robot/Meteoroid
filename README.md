@@ -32,9 +32,9 @@ I also designed a little adapter board I called Klipper to CACKLE. It basically 
 I don't have specific build instructions yet as that takes a lot more development time, but you can reference the [BOM](https://github.com/techy-robot/Meteoroid/blob/main/BOM_Main%20assembly_simplified.csv) and the CAD file/Onshape to get all the parts and build it.
 
 # Development Log
-Total Hours Spent designing: 51 hrs
+Total Hours Spent designing: 55 hrs
 
-This project was worked on sporadically from Feb 1, 2025 to April 5th, 2025
+This project was worked on sporadically from Feb 1, 2025 to April 6th, 2025
 
 See [Changelog](https://github.com/techy-robot/Meteoroid/blob/main/Changelong.md) for my full development log and the nitty-gritty details
 

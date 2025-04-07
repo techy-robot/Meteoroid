@@ -5,7 +5,7 @@ Made by: @techy-robot
 
 Repository link: https://github.com/techy-robot/Meteoroid
 
-Total hours so far: 51.0 hrs
+Total hours so far: 55.0 hrs
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -54,6 +54,8 @@ Pictures to start:
 My design is a single lock system that is *centralized,* all the force applied by  thelock is put in the direct center of the kinematic mount, distributing the force evenly. Daksh V2 has two separate locks, one on the top and one on the bottom, applying an equal amount of spring force on unequal mounting.
 
 I also noticed in the Daksh v2 toolhead that two of the three mounting points have the rods facing vertically, and the 3rd horizontally. I am concerned that this adds a small amount of uneven rotation to the system. If you look up normal kinematic mounts, the V-grooves are pointed in towards the center, and restrict all degress of freedom. Having each mount point facing a different direction likely applies uneven force. I wanted to fix that.
+
+Time: 4 hrs
 
 [Onshape Link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/v/472a7a2f31d89b23ef308c6a/e/f03e8779d1a8cc2741025c01)
 
