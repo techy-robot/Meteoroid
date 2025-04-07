@@ -4,9 +4,9 @@
 Production-ready 3d printer based on a Ender 5 frame, with multifunction tool changing, bed changing, and accessories with robots.
 
 Preview Picture
-![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-04-05%2022-23-54.png)
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-04-06%2019-29-22)
 
-V0.5 [Onshape Link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/v/822dbc763cf3844d6902b3b4/e/f03e8779d1a8cc2741025c01)
+Latest V0.5.1 [Onshape Link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/v/472a7a2f31d89b23ef308c6a/e/5035fd16eb1a96461381da20)
 
 It is desktop machine with plug and play heads. Chain these machines together and add robot carriages in between and you got yourself an awesome modular factory that can fit on a bench. The cost of the _entire system_ will likely be several thousand dollars, with the main machine between $300 to $500. I aim to lower the cost of a complete industrial system as much as possible.
 
