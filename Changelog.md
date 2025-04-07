@@ -41,15 +41,15 @@ After some conversations with other members of the 3D printer community, some fe
 
 New XY gantry pictures:
 
-![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%2025-04-06%2015-35-26.png)
-![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%2025-04-06%2019-29-22.png)
-![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%2025-04-06%2019-29-54.png)
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-04-06%2015-35-26.png)
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-04-06%2019-29-22.png)
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-04-06%2019-29-54.png)
 
 I also want to show some clarity on how my toolchanger design is different and improves on Daksh V2
 
 Pictures to start:
-![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%2025-04-06%2019-30-55.png)
-![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%2025-04-06%2019-31-29.png)
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-04-06%2019-30-55.png)
+![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-04-06%2019-31-29.png)
 
 My design is a single lock system that is *centralized,* all the force applied by  thelock is put in the direct center of the kinematic mount, distributing the force evenly. Daksh V2 has two separate locks, one on the top and one on the bottom, applying an equal amount of spring force on unequal mounting.
 
