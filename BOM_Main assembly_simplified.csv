@@ -3,17 +3,17 @@ ID,Quantity,Description,Name,Already have?,3D printed,Price,Purchase Link
 ,1,,Left X joint top,,t,,
 ,1,,Right X joint bottom,,t,,
 ,1,,Right X joint top,,t,,
-,2,,Z-Axis Motor Inside Bracket,,t,,
-,2,,bed - linear bearing mount corner,,t,,
-,2,,bed - linear bearing mount corner mirror,,t,,
-,4,,bed - frame mount,,t,,
-,2,,bed - lead screw nut mount,,t,,
-,4,,bed - thumb screw,,t,,
+,2,,Z+AC0-Axis Motor Inside Bracket,,t,,
+,2,,bed +AC0- linear bearing mount corner,,t,,
+,2,,bed +AC0- linear bearing mount corner mirror,,t,,
+,4,,bed +AC0- frame mount,,t,,
+,2,,bed +AC0- lead screw nut mount,,t,,
+,4,,bed +AC0- thumb screw,,t,,
 ,1,,Z endstop mount,,t,,
 ,4,,base standoff,,t,,
 ,4,,DIN rail drop,,t,,
-,2,,DIN rail clip -  LRS200 LRS350,,t,,
-,2,,DIN rail clip - Octopus pro,,t,,
+,2,,DIN rail clip +AC0-  LRS200 LRS350,,t,,
+,2,,DIN rail clip +AC0- Octopus pro,,t,,
 ,4,,frame stiffener side mount,,t,,
 ,8,,frame stiffener,,t,,
 ,1,,Left Motor Mount,,t,,
@@ -23,24 +23,24 @@ ID,Quantity,Description,Name,Already have?,3D printed,Price,Purchase Link
 ,1,,Right Motor Mount Top,,t,,
 ,1,,Right Tensioner,,t,,
 ,2,,Tensioner Plate,,t,,
-,2,,DIN rail clip - RPI4,,t,,
+,2,,DIN rail clip +AC0- RPI4,,t,,
 ,1,,PSU switch mount,,t,,
-,1,,Carraige - back plate,,t,,
-,2,,Carraige - Belt clampx2,,t,,
-,1,,Carraige - bottom,,t,,
-,1,,Carraige - front belt plate,,t,,
-,1,,Carraige - lock clamp,,t,,
-,1,,Carraige - lock slider,,t,,
-,1,,Carraige - Rail mount,,t,,
-,1,,Carraige - spring plate,,t,,
-,1,,Rapido Orbiter Toolhead - mount,,t,,
-,1,,Rapido Orbitor Toolhead - Duct,,t,,
-,4,,Tool Bay - Basic,,t,,
+,1,,Carraige +AC0- back plate,,t,,
+,2,,Carraige +AC0- Belt clampx2,,t,,
+,1,,Carraige +AC0- bottom,,t,,
+,1,,Carraige +AC0- front belt plate,,t,,
+,1,,Carraige +AC0- lock clamp,,t,,
+,1,,Carraige +AC0- lock slider,,t,,
+,1,,Carraige +AC0- Rail mount,,t,,
+,1,,Carraige +AC0- spring plate,,t,,
+,1,,Rapido Orbiter Toolhead +AC0- mount,,t,,
+,1,,Rapido Orbitor Toolhead +AC0- Duct,,t,,
+,4,,Tool Bay +AC0- Basic,,t,,
 ,3,,Rail End Stop,,t,,
 1,4,370mm beam,2020 extrusion 370mm,t,,10,
 ,4,440 beam,2020 extrusion 440mm,t,,10,
 ,4,410mm beam,2020 extrusion 410mm,t,,10,
-,2,,Z Stepper Ender 3 42-40,t,,8.55,
+,2,,Z Stepper Ender 3 42+AC0-40,t,,8.55,
 ,8,,10mm Clamp,t,,1.43,
 ,4,,10mm Rod,t,,1.41,
 ,4,,10mm Rod Bearing,t,,1.33,
@@ -52,26 +52,28 @@ ID,Quantity,Description,Name,Already have?,3D printed,Price,Purchase Link
 ,1,2nd hand,PSU Meanwell 350W 24V,t,,15.44,
 ,1,2nd hand,BTT Octopus Pro,t,,32.44,
 ,1,2nd hand,Raspberry Pi 4 Model B,t,,20,
-,1,,AC-01A PSU Switch,t,,5,
+,1,,AC+AC0-01A PSU Switch,t,,5,
 ,1,,5015 Blower Fan,t,,5,
-,1,,ZeroG Mercury Fastener Kit (Includes most screws needed for XY axis),t,,20.99,https://west3d.com/products/bdf-zerog-mercury-one-ender-conversion-fastener-kit-zero-g?_pos=1&_psq=zerog+mercury&_ss=e&_v=1.0
-,1,,"Trident Gates Motion Kit (Includes pulleys, idlers, bearings and belts)",t,,45,https://west3d.com/products/west3d-bdm-trident-motion-set-silver-darkside-black?variant=43700602699988
-,10,,M5x30 Shafts,t,,5,https://west3d.com/products/round-shafts-5x30mm-5x60mm?variant=41971072991444
-,1,,330mm linear rail,,,32.99,https://www.fabreeko.com/products/honeybadger-mgn12c-stainless-steel-rails?_pos=1&_sid=613dba29e&_ss=r&variant=42780752609535
-,2,,350mm linear rail,,,70.58,https://www.fabreeko.com/products/honeybadger-mgn12c-stainless-steel-rails?_pos=1&_sid=613dba29e&_ss=r&variant=42106258194687
-,2,,Nema 17 Stepper LDO 42STH48-2804AH HT,,,55.98,https://www.fabreeko.com/products/ldo-42sth48-2804-ac-ah-ahs80-super-power-motors-by-ldo?_pos=1&_sid=70e9aedcf&_ss=r&variant=43913432891647
+,1,,ZeroG Mercury Fastener Kit (Includes most screws needed for XY axis),t,,20.99,https://west3d.com/products/bdf+AC0-zerog+AC0-mercury+AC0-one+AC0-ender+AC0-conversion+AC0-fastener+AC0-kit+AC0-zero+AC0-g?+AF8-pos+AD0-1+ACYAXw-psq+AD0-zerog+mercuv/9ACYAXw-ss+AD0-e+ACYAXw-v+AD0-1.0
+,1,,+ACI-Trident Gates Motion Kit (Includes pulleys, idlers, bearings and belts)+ACI-,t,,45,https://west3d.com/products/west3d+AC0-bdm+AC0-trident+AC0-motion+AC0-set+AC0-silver+AC0-darkside+AC0-black?variant+AD0-43700602699988
+,10,,M5x30 Shafts,t,,5,https://west3d.com/products/round+AC0-shafts+AC0-5x30mm+AC0-5x60mm?variant+AD0-41971072991444
+,1,,330mm linear rail,,,32.99,https://www.fabreeko.com/products/honeybadger+AC0-mgn12c+AC0-stainless+AC0-steel+AC0-rails?+AF8-pos+AD0-1+ACYAXw-sid+AD0-613dba29e+ACYAXw-ss+AD0-r+ACY-variant+AD0-42780752609535
+,2,,350mm linear rail,,,70.58,https://www.fabreeko.com/products/honeybadger+AC0-mgn12c+AC0-stainless+AC0-steel+AC0-rails?+AF8-pos+AD0-1+ACYAXw-sid+AD0-613dba29e+ACYAXw-ss+AD0-r+ACY-variant+AD0-42106258194687
+,2,,Nema 17 Stepper LDO 42STH48+AC0-2804AH HT,,,55.98,https://www.fabreeko.com/products/ldo+AC0-42sth48+AC0-2804+AC0-ac+AC0-ah+AC0-ahs80+AC0-super+AC0-power+AC0-motors+AC0-by+AC0-ldo?+AF8-pos+AD0-1+ACYAXw-sid+AD0-70e9aedcf+ACYAXw-ss+AD0-r+ACY-variant+AD0-43913432891647
 ,2,for bed,2020 extrusion 230mm,,,10,
 ,2,for bed,2020 extrusion 250mm,,,10,
-,20,"Choose the S6 varient, with SUS440C material, FDWN-S6-D3-L15",m3 x 16mm dowel pin,,,5.5,https://jlcmc.com/product/s/F02/FDWN/positioning-pin-straight-rod-h7
-,3,"Choose the S1 varient, with SUS304 material FDWN-S1-D3-L20",m3 x 20mm dowel pin,,,0.9,https://jlcmc.com/product/s/F02/FDWN/positioning-pin-straight-rod-h7
-,2,FDWN-S6-D3-L30 ,m3 x 30mm dowel pin filed down,,,0.74,https://jlcmc.com/product/s/F02/FDWN/positioning-pin-straight-rod-h7
-,4,,spring OD6 ID5 Length 10mm,,,1,https://jlcmc.com/product/s/A04/ATHX/heat-temperature-compression-spring-l%C3%9740%25
-,1,"I already have a V2, so I just need the upgrade kit",LDO Orbiter v2.5 upgrade kit,,,22.99,https://west3d.com/products/ldo-orbiter-extruder-v2-5-orbiter-v2-5-and-v2-0-to-v2-5-upgrade-kit?variant=45833094627540
-,1,,Rapido ACE HF,,,79.99,https://west3d.com/products/trianglelab-rapido-ace-hotend-hot-end-hf-uhf-with-104nt-or-pt1000-thermistor?variant=45545880977620
-,1,,3010 Fan,,,6.49,https://west3d.com/products/gdstime-dc-24v-30x30x10-axial-fan-24v-gda30105f-dual-ball-bearing-1200rpm-1w-06a-xh2-54?_pos=3&_sid=c0dc7587c&_ss=r
-,3,Part number EMLB-S1-M5,m5 cap nut,,,0.05,https://jlcmc.com/product/s/E04/EMLB/cap-and-flange-nuts
-,1,"West3D, I will buy on my own",ASA Orange Filament,,,22.99,https://west3d.com/products/ambrosia-asa-filament-of-the-gods-1kg-bambu-friendly-cardboard-spools-premium-3d-printing-filament?variant=44425275637972
-,24,for all the frame stiffeners,M3 roll in t-nut,,,,
+,20,+ACI-Choose the S6 varient, with SUS440C material, FDWN+AC0-S6+AC0-D3+AC0-L15+ACI-,m3 x 16mm dowel pin,,,5.5,https://jlcmc.com/product/s/F02/FDWN/positioning+AC0-pin+AC0-straight+AC0-rod+AC0-h7
+,3,+ACI-Choose the S1 varient, with SUS304 material FDWN+AC0-S1+AC0-D3+AC0-L20+ACI-,m3 x 20mm dowel pin,,,0.9,https://jlcmc.com/product/s/F02/FDWN/positioning+AC0-pin+AC0-straight+AC0-rod+AC0-h7
+,2,FDWN+AC0-S6+AC0-D3+AC0-L30 ,m3 x 30mm dowel pin filed down,,,0.74,https://jlcmc.com/product/s/F02/FDWN/positioning+AC0-pin+AC0-straight+AC0-rod+AC0-h7
+,4,,spring OD6 ID5 Length 10mm,,,1,https://jlcmc.com/product/s/A04/ATHX/heat+AC0-temperature+AC0-compression+AC0-spring+AC0-l+ACU-C3+ACU-9740+ACU-25
+,1,+ACI-I already have a V2, so I just need the upgrade kit+ACI-,LDO Orbiter v2.5 upgrade kit,,,22.99,https://west3d.com/products/ldo+AC0-orbiter+AC0-extruder+AC0-v2+AC0-5+AC0-orbiter+AC0-v2+AC0-5+AC0-and+AC0-v2+AC0-0+AC0-to+AC0-v2+AC0-5+AC0-upgrade+AC0-kit?variant+AD0-45833094627540
+,1,,Rapido ACE HF,,,79.99,https://west3d.com/products/trianglelab+AC0-rapido+AC0-ace+AC0-hotend+AC0-hot+AC0-end+AC0-hf+AC0-uhf+AC0-with+AC0-104nt+AC0-or+AC0-pt1000+AC0-thermistor?variant+AD0-45545880977620
+,1,,3010 Fan,,,6.49,https://west3d.com/products/gdstime+AC0-dc+AC0-24v+AC0-30x30x10+AC0-axial+AC0-fan+AC0-24v+AC0-gda30105f+AC0-dual+AC0-ball+AC0-bearing+AC0-1200rpm+AC0-1w+AC0-06a+AC0-xh2+AC0-54?+AF8-pos+AD0-3+ACYAXw-sid+AD0-c0dc7587c+ACYAXw-ss+AD0-r
+,3,Part number EMLB+AC0-S1+AC0-M5,m5 cap nut,,,0.05,https://jlcmc.com/product/s/E04/EMLB/cap+AC0-and+AC0-flange+AC0-nuts
+,1,+ACI-West3D, I will buy on my own+ACI-,ASA Orange Filament,,,22.99,https://west3d.com/products/ambrosia+AC0-asa+AC0-filament+AC0-of+AC0-the+AC0-gods+AC0-1kg+AC0-bambu+AC0-friendly+AC0-cardboard+AC0-spools+AC0-premium+AC0-3d+AC0-printing+AC0-filament?variant+AD0-44425275637972
+,24,for all the frame stiffeners,M3 roll in t+AC0-nut,,,,
 ,24,for all the frame stiffeners,m3x8mm screws,,,,
-,,,"TOTAL COST NEW PARTS USD SUMIF(E$1:INDIRECT(ADDRESS(ROW() - 1,COLUMN(),1)),""="",G$1:INDIRECT(ADDRESS(ROW() - 1,COLUMN(),1)))",, ,320.2,
-,,,"TOTAL PRINTER COST USD SUM(G$1:INDIRECT(ADDRESS(ROW() - 2,COLUMN(),1)))",,,533.58,
+,10,6x3 round magnets,,,,5,
+,6,reed switches,,,,5,
+,,,+ACI-TOTAL COST NEW PARTS USD SUMIF(E+ACQ-1:INDIRECT(ADDRESS(ROW() +AC0- 1,COLUMN(),1)),+ACIAIgA9ACIAIg-,G+ACQ-1:INDIRECT(ADDRESS(ROW() +AC0- 1,COLUMN(),1)))+ACI-,, ,330.2,
+,,,+ACI-TOTAL PRINTER COST USD SUM(G+ACQ-1:INDIRECT(ADDRESS(ROW() +AC0- 2,COLUMN(),1)))+ACI-,,,543.58,

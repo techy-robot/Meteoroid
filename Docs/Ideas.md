@@ -5,6 +5,7 @@
 - Design a simple converter PCB from XT60 connector and USB C, to the molex special connector
 - Design hotswap pcb connectors
 - Use JLCMC for all my fasteners, and mcmaster carr for other things
+- Don't use Obico for failure detection, I need something on the pi like [Forgetti](https://github.com/willuhmjs/forgetti), [3d Print Sentinel](https://github.com/oliverbravery/3D-Print-Sentinel), Scythe-Spaghetti-detection or [PiNozCam](https://github.com/DrAlexLiu/OctoPrint-PiNozCam)
 
 
 # Tools
