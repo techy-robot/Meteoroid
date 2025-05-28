@@ -4,7 +4,7 @@
 Production-ready 3d printer based on a Ender 5 frame, with multifunction tool changing, bed changing, and accessories with robots.
 
 Preview Picture
-![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-04-06%2019-29-22)
+![](Media/Screenshot%20from%202025-05-27%2020-13-00.png)
 
 Latest V0.7.0 [Onshape Link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/v/c2a582b56fbe86c2e3bf18a1/e/f03e8779d1a8cc2741025c01)
 

@@ -54,6 +54,8 @@ Fixes:
 - Aligned toolhead kinematic mount to have proper 45 degrees contact angle
 - Cutout more plastic in hotend cooling fan mount to increase airflow
 
+![](Media/Screenshot%20from%202025-05-27%2020-13-00.png)
+
 [Onshape Link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/v/c2a582b56fbe86c2e3bf18a1/e/f03e8779d1a8cc2741025c01)
 
 Time: 1 hr
