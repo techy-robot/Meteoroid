@@ -6,7 +6,7 @@ Production-ready 3d printer based on a Ender 5 frame, with multifunction tool ch
 Preview Picture
 ![](https://raw.githubusercontent.com/techy-robot/Meteoroid/refs/heads/main/Media/Screenshot%20from%202025-04-06%2019-29-22)
 
-Latest V0.5.1 [Onshape Link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/v/472a7a2f31d89b23ef308c6a/e/f03e8779d1a8cc2741025c01)
+Latest V0.7.0 [Onshape Link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/v/c2a582b56fbe86c2e3bf18a1/e/f03e8779d1a8cc2741025c01)
 
 It is desktop machine with plug and play heads. Chain these machines together and add robot carriages in between and you got yourself an awesome modular factory that can fit on a bench. The cost of the _entire system_ will likely be several thousand dollars, with the main machine between $300 to $500. I aim to lower the cost of a complete industrial system as much as possible.
 
@@ -32,9 +32,7 @@ I also designed a little adapter board I called Klipper to CACKLE. It basically 
 I don't have specific build instructions yet as that takes a lot more development time, but you can reference the [BOM](https://github.com/techy-robot/Meteoroid/blob/main/BOM_Main%20assembly_simplified.csv) and the CAD file/Onshape to get all the parts and build it.
 
 # Development Log
-Total Hours Spent designing: 55 hrs
-
-This project was worked on sporadically from Feb 1, 2025 to April 6th, 2025
+This project was worked on sporadically since Feb 1, 2025
 
 See [Changelog](https://github.com/techy-robot/Meteoroid/blob/main/Changelong.md) for my full development log and the nitty-gritty details
 

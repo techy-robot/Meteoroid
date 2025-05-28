@@ -1,0 +1,30 @@
+Name	Variable type	Value	Description
+M3_screw_hole	Length	3.15	
+M3_tight_screw_hole	Length	3	
+M3_screwhead_hole	Length	6	
+M3_heatset_hole	Length	4.7	
+M3_heatset_depth	Length	5	
+M5_screw_hole	Length	5.2	
+M5_tight_screw_hole	Length	4.9	
+M5_screw_head_hole	Length	9	
+M4_screwhole	Length	4.2	
+M4_screw_head_hole	Length	8	
+M4_tight_screw_hole	Length	4	
+M4_heatset_hole	Length	5.7	
+Dowel_pin_dia	Length	5.2	
+belt_width	Length	6	
+belt_thickness	Length	1.38	
+belt_tooth_thickness	Length	0.75	
+belt_other_thickness	Length	0.63	the non-tooth thickness of belt
+ABS_tolerance	Length	0.2	
+smooth_idler_dia	Length	13	
+toothed_idler_dia	Length	12.22	
+belt_gap	Length	1.5	gap btw belt and plastic parts
+smoothed_idler_9mm_flange_stack	Length	11.2	
+toothed_idler_9mm_stack	Length	9.5	
+motion_gap	Length	1.5	
+magnet_diameter	Length	6.35	
+magnet_depth	Length	3.175	
+guide_with_screw_depth	Length	1.4	Guides are what keeps a part in alignment in an X extrusion. with nut is the depth with a screw going through it
+guide_depth	Length	4	
+guide_width	Length	5.8	width of beam, some tolerance
