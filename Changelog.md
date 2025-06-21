@@ -35,6 +35,11 @@ Project Time Span: Feb 1, 2025-Present
 # Log
 This is a log of every day I have worked on this project
 
+## Designing Push Push toolchanger mechanism June 19, 2025
+
+I spent some time today designing a new toolhead lock, a spring action push push lock!
+
+
 ## Released v0.7 May 27th, 2025
 
 This version is essentially the printer that I showcased at RMRRF. Toolchanging has not been setup, and in fact the locking mechanism itself fails with high vibrations. I should have released this before the event.
