@@ -119,32 +119,7 @@
   },
   "open_jobsets": [],
   "project": {
-    "files": [
-      {
-        "name": "Klipper-To-CACKLE.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 1,
-          "maximized": true,
-          "pos_x": 267,
-          "pos_y": 0,
-          "size_x": 1280,
-          "size_y": 666
-        }
-      },
-      {
-        "name": "Klipper-To-CACKLE.kicad_sch",
-        "open": false,
-        "window": {
-          "display": 1,
-          "maximized": true,
-          "pos_x": 179,
-          "pos_y": 0,
-          "size_x": 1152,
-          "size_y": 492
-        }
-      }
-    ]
+    "files": []
   },
   "schematic": {
     "selection_filter": {
