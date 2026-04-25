@@ -1,5 +1,5 @@
 ---
-modified: 2025-04-02T23:19:20-06:00
+modified: 2026-04-24T23:28:50-06:00
 ---
 Made by: @techy-robot
 
@@ -34,6 +34,25 @@ Project Time Span: Feb 1, 2025-Present
 
 # Log
 This is a log of every day I have worked on this project
+
+## Finished exploration of push push linear design and moving to barrel CAM push-push April 24, 2026
+
+The old design was a linear track. I actually tried about 20 different varients of the heart shaped CAM, you can see the final version CAD model below. It just kept binding.
+
+![](Media/Screenshot%20from%202026-04-24%2022-40-02.png)
+
+The new version I am working on uses magnets for hysterics and holding forces, which is new terrain. This is combined with a rotating barrel cam design that will actually rotate and lock the tool when pushed.
+
+![](Media/Screenshot%20from%202026-04-24%2023-16-56.png)
+
+[Onshape Link](https://cad.onshape.com/documents/1de0655c0501c319c0be82e5/w/1baf60f0f4edbe4563b81650/e/f4a197586fc46ac1237943ae)
+
+Time: 2 hrs
+
+## Designing Push Push toolchanger mechanism June 19, 2025
+
+I spent some time today designing a new toolhead lock, a spring action push push lock!
+
 
 ## Released v0.7 May 27th, 2025
 

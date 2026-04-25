@@ -1,0 +1,48 @@
+* SP40P04TH SPICE Model
+* Manufacturer: Siliup Semiconductor
+* Type: P-Channel Power MOSFET
+* Specs: -40V, -120A, 4.8mOhm
+* Connections: Drain Gate Source
+.subckt SP40P04TH G D S
+
+* Parasitic Gate Resistance (Estimated)
+Rg G Gint 2.4
+
+* Main MOSFET Switch (Level 3 for better accuracy)
+* L=1u W=1u is a reference; KP is scaled to match transconductance.
+M1 D Gint S S PMOS_Model L=1u W=1u
+
+* Body Diode (Modeled separately for correct current handling)
+Dbody D S D_Body
+
+* --- P-Channel MOSFET Parameters ---
+* VTO: Threshold Voltage (-1.6V typ)
+* KP: Transconductance (Derived from Id/Vgs curves)
+* RS/RD: Ohmic resistances to match Rdson (4.8mOhm total)
+* CGSO/CGDO: Overlap capacitances calculated from Ciss/Crss
+.MODEL PMOS_Model PMOS(
++ LEVEL=3
++ VTO=-1.6
++ KP=60
++ RS=2.0m
++ RD=2.8m
++ CGSO=6.5n
++ CGDO=450p
++ CBD=640p
++ IS=1E-12)
+
+* --- Body Diode Parameters ---
+* BV: Breakdown Voltage (-40V)
+* IS: Saturation Current
+* RS: Diode Series Resistance
+.MODEL D_Body D(
++ IS=1.0E-10
++ N=1.0
++ RS=1.0m
++ BV=40
++ IBV=250u
++ CJO=640p
++ M=0.35
++ VJ=0.75)
+
+.ends SP40P04TH

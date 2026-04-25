@@ -34,7 +34,7 @@ I don't have specific build instructions yet as that takes a lot more developmen
 # Development Log
 This project was worked on sporadically since Feb 1, 2025
 
-See [Changelog](https://github.com/techy-robot/Meteoroid/blob/main/Changelong.md) for my full development log and the nitty-gritty details
+See [Changelog](https://github.com/techy-robot/Meteoroid/blob/main/Changelog.md) for my full development log and the nitty-gritty details
 
 # Credits
 The motion system inspiration is from [Zero G Mercury 1.1](https://docs.zerog.one/manual/build/mercury_eva), which is a relatively simple corexy conversion for ender 5-style frames. I have tweaked many of the parts to fix small issues I noticed, revamped the frame with supports, added a toolchanging solution, and a 2 axis bed leveling system instead of the more costly 3-axis Hydra solution. The toolchanger is similar to the [Daksh V2](https://github.com/ankurv2k6/daksh-toolchanger-v2/) solution, except with a simpler single lock system, and concentric kinematic mount points instead of asymetrical contact mounts.

@@ -1,0 +1,45 @@
+* FDD86367 SPICE Model
+* Manufacturer: ON Semiconductor / Fairchild
+* Type: N-Channel PowerTrench MOSFET
+* Specs: 80V, 100A, 3.3mOhm
+* Connections: Drain Gate Source
+.subckt FDD86367 G D S
+
+* Parasitic Gate Resistance (From Datasheet)
+Rg G Gint 2.3
+
+* Main MOSFET Switch
+M1 D Gint S S NMOS_Model L=1u W=1u
+
+* Body Diode
+Dbody S D D_Body
+
+* --- N-Channel MOSFET Parameters ---
+* VTO: Threshold Voltage (Typ 3.0V)
+* KP: Transconductance parameter
+* Ciss=4840pF -> Cgs approx 4.8nF
+* Crss=31pF -> Cgd approx 31pF
+.MODEL NMOS_Model NMOS(
++ LEVEL=3
++ VTO=3.0
++ KP=150
++ RS=1.0m
++ RD=2.3m
++ CGSO=4.8n
++ CGDO=31p
++ CBD=814p
++ IS=1E-12)
+
+* --- Body Diode Parameters ---
+* BV=80V Breakdown
+.MODEL D_Body D(
++ IS=1.0E-10
++ N=1.0
++ RS=0.5m
++ BV=80
++ IBV=250u
++ CJO=814p
++ M=0.35
++ VJ=0.75)
+
+.ends FDD86367
