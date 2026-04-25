@@ -1,0 +1,49 @@
+* NUP2301 SPICE Model
+* Manufacturer: On Semiconductor
+* Logic: Bidirectional TVS Array
+* Specs: VRWM=70V, VBR=76V, Cj=10pF
+* * TERMINALS: PIN1 PIN2 PIN3 PIN4 PIN5 PIN6
+*
+* Pinout Mapping (SOT-363):
+* -------------------------
+* The device contains two independent bidirectional TVS elements.
+* Element 1 is across Pins 1 and 6.
+* Element 2 is across Pins 3 and 4.
+* Pins 2 and 5 are not internally connected to the active elements 
+* (often used for layout routing or NC).
+*
+* 1   2   3
+* |   |   |
+* |---|---|
+* |       |
+* |---|---|
+* |   |   |
+* 6   5   4
+*
+* Connections:
+* .subckt NUP2301 Pin1 Pin2 Pin3 Pin4 Pin5 Pin6
+*
+
+.SUBCKT NUP2301 1 2 3 4 5 6
+
+* --- Diode Pair 1 (Pins 1-6) ---
+* Bidirectional: Two 76V diodes in series (back-to-back)
+* This creates a symmetric breakdown at +/- 76V
+D1_A 1 mid1 D_NUP2301
+D1_B 6 mid1 D_NUP2301
+
+* --- Diode Pair 2 (Pins 3-4) ---
+* Bidirectional: Two 76V diodes in series
+D2_A 3 mid2 D_NUP2301
+D2_B 4 mid2 D_NUP2301
+
+* --- Pins 2 and 5 are floating/NC in this package ---
+* (You can ground them if your PCB footprint requires it)
+
+* --- Model Parameters ---
+* BV=76V: The diode ignores everything below 76V (including your 24V rail).
+* RS=1.5: Dynamic resistance.
+* CJO=20p: Series equivalent is 10pF (Datasheet Typ).
+.MODEL D_NUP2301 D(IS=1E-14 N=1.1 RS=1.5 BV=76.0 IBV=1E-3 CJO=20E-12 M=0.33 TT=1E-9)
+
+.ENDS NUP2301

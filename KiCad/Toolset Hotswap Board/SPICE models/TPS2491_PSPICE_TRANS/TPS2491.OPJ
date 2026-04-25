@@ -1,0 +1,178 @@
+(ExpressProject "TPS2491"
+  (ProjectVersion "19981106")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "tps2491.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File "tps2491.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (PSPICE_Regenerate_Netlist_Flag "FALSE")
+    (RootChangedForceReNetlist "x")
+    (Netlist_TAB "4")
+    (PSPICE_Output_File "TPS2490_1.LIB")
+    (PSPICE_View_Output "FALSE")
+    (PSPICE_Subcircuit_Format "TRUE")
+    (PSPICE_Do_DRC_Markers "FALSE")
+    (PSPICE_Hier_Format "FALSE")
+    (PSPICE_Hier_Descend "TRUE")
+    (PSPICE_Hier_DoNot_Descend "FALSE")
+    (PSPICE_Alt_Template "PSpiceTemplate"))
+  (Folder "Outputs")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles"
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\tps2491-pspicefiles\retry\trans.sim"
+        (DisplayName "RETRY-trans")
+        (Type "PSpice Profile"))
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\tps2491-pspicefiles\ilim_plim\trans.sim"
+        (DisplayName "ILIM_PLIM-trans")
+        (Type "PSpice Profile"))
+      (ActiveProfile ".\tps2491-pspicefiles\retry\trans.sim"))
+    (Folder "Model Libraries"
+      (Sort User)
+      (File ".\tps2491.lib"
+        (Type "PSpiceLibrary")
+        (DisplayName ".\tps2491.lib")))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (PartMRUSelector
+    (TPS2491
+      (FullPartName "TPS2491.Normal")
+      (LibraryName
+         "C:\ELAB_MODEL_WS\ELAB_MODEL_DS\PART_NUMBERS\TPS2491\RELEASE_TI\PSPICE\TPS2491_PSPICE_TRANS\TPS2491.OLB")
+      (DeviceIndex "0"))
+    (VDC
+      (FullPartName "VDC.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.0\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (TPS2490
+      (FullPartName "TPS2490.Normal")
+      (LibraryName
+         "C:\ELAB_MODEL_WS\ELAB_MODEL_DS\PART_NUMBERS\TPS2490\ACTIVE_WORK\PSPICE\TPS2490_PSPICE_TRANS\TPS2490.OLB")
+      (DeviceIndex "0"))
+    (NOR2_BASIC_GEN
+      (FullPartName "NOR2_BASIC_GEN.Normal")
+      (LibraryName
+         "C:\PSPICE_SUBBLK_LIB_WS\PSPICE_SUBBLK_LIB_DS\PSPICE_SUBBLK_LIB\SB02_SUBBLOCKBASIC\SB0101_LOGIC\GATES_GEN.OLB")
+      (DeviceIndex "0"))
+    (NOR2_BASIC
+      (FullPartName "NOR2_BASIC.Normal")
+      (LibraryName
+         "C:\PSPICE_SUBBLK_LIB_WS\PSPICE_SUBBLK_LIB_DS\PSPICE_SUBBLK_LIB\SB02_SUBBLOCKBASIC\SB0101_LOGIC\GATES.OLB")
+      (DeviceIndex "0"))
+    (NOR2
+      (FullPartName "NOR2.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.0\TOOLS\CAPTURE\LIBRARY\GATE.OLB")
+      (DeviceIndex "0"))
+    (IRF540NS
+      (FullPartName "IRF540NS.Normal")
+      (LibraryName
+         "C:\ELAB_MODEL_WS\ELAB_MODEL_DS\PART_NUMBERS\TPS2490\ACTIVE_WORK\PSPICE\TPS2490_PSPICE_TRANS\IRF540NS.OLB")
+      (DeviceIndex "0"))
+    (VPWL
+      (FullPartName "VPWL.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.0\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (IPWL
+      (FullPartName "IPWL.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_16.0\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (VPULSE
+      (FullPartName "VPULSE.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (IDC
+      (FullPartName "IDC.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\LIBRARY\PSPICE\SOURCE.OLB")
+      (DeviceIndex "0"))
+    (INV_DELAY_BASIC_GEN
+      (FullPartName "INV_DELAY_BASIC_GEN.Normal")
+      (LibraryName
+         "C:\PSPICE_SUBBLK_LIB_WS\PSPICE_SUBBLK_LIB_DS\PSPICE_SUBBLK_LIB\SB02_SUBBLOCKBASIC\SB0101_LOGIC\GATES_GEN.OLB")
+      (DeviceIndex "0"))
+    (BUF_DELAY_BASIC_GEN
+      (FullPartName "BUF_DELAY_BASIC_GEN.Normal")
+      (LibraryName
+         "C:\PSPICE_SUBBLK_LIB_WS\PSPICE_SUBBLK_LIB_DS\PSPICE_SUBBLK_LIB\SB02_SUBBLOCKBASIC\SB0101_LOGIC\GATES_GEN.OLB")
+      (DeviceIndex "0"))
+    (0
+      (LibraryName "C:\CADENCE\SPB_16.0\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\ORCAD\ORCAD_10.0\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
+    (ONE_SHOT_FIX
+      (FullPartName "ONE_SHOT_FIX.Normal")
+      (LibraryName
+         "C:\ELAB_MODEL_WS\ELAB_MODEL_DS\PART_NUMBERS\TPS2490\ACTIVE_WORK\PSPICE\TPS2490_PSPICE_TRANS\TPS2490EVM.OLB")
+      (DeviceIndex "0"))
+    (DELAY_FIX
+      (FullPartName "DELAY_FIX.Normal")
+      (LibraryName
+         "C:\ELAB_MODEL_WS\ELAB_MODEL_DS\PART_NUMBERS\TPS2490\ACTIVE_WORK\PSPICE\TPS2490_PSPICE_TRANS\TPS2490EVM.OLB")
+      (DeviceIndex "0"))
+    (ABM2
+      (FullPartName "ABM2.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.0\TOOLS\CAPTURE\LIBRARY\PSPICE\ABM.OLB")
+      (DeviceIndex "0"))
+    (BUF_BASIC_GEN
+      (FullPartName "BUF_BASIC_GEN.Normal")
+      (LibraryName
+         "C:\PSPICE_SUBBLK_LIB_WS\PSPICE_SUBBLK_LIB_DS\PSPICE_SUBBLK_LIB\SB02_SUBBLOCKBASIC\SB0101_LOGIC\GATES_GEN.OLB")
+      (DeviceIndex "0"))
+    (MONO_POS_PS
+      (FullPartName "MONO_POS_PS.Normal")
+      (LibraryName
+         "C:\PSPICE_SUBBLK_LIB_WS\PSPICE_SUBBLK_LIB_DS\PSPICE_SUBBLK_LIB\SB01_BHVRLIB\MACROSALL.OLB")
+      (DeviceIndex "0"))
+    (MONO_NEG_PS
+      (FullPartName "MONO_NEG_PS.Normal")
+      (LibraryName
+         "C:\PSPICE_SUBBLK_LIB_WS\PSPICE_SUBBLK_LIB_DS\PSPICE_SUBBLK_LIB\SB01_BHVRLIB\MACROSALL.OLB")
+      (DeviceIndex "0"))
+    (ABM1
+      (FullPartName "ABM1.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.0\TOOLS\CAPTURE\LIBRARY\PSPICE\ABM.OLB")
+      (DeviceIndex "0"))
+    (ABM
+      (FullPartName "ABM.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.0\TOOLS\CAPTURE\LIBRARY\PSPICE\ABM.OLB")
+      (DeviceIndex "0"))
+    (INV_PS
+      (FullPartName "INV_PS.Normal")
+      (LibraryName
+         "C:\PSPICE_SUBBLK_LIB_WS\PSPICE_SUBBLK_LIB_DS\PSPICE_SUBBLK_LIB\SB01_BHVRLIB\MACROSALL.OLB")
+      (DeviceIndex "0"))
+    (SI7846DP
+      (FullPartName "SI7846DP.Normal")
+      (LibraryName
+         "C:\PSPICE_SUBBLK_LIB_WS\PSPICE_SUBBLK_LIB_DS\PSPICE_SUBBLK_LIB\SB03_DISCRETE\MOSFET.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "C:\ELAB_MODEL_WS\ELAB_MODEL_DS\Part_Numbers\TPS2490\Active_Work\PSPICE\TPS2490_PSPICE_TRANS")
+  (MPSSessionName "x0212753")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Outputs"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 245 0 367"))
+      (Tab 0))))
